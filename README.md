@@ -6,3 +6,5 @@ Programs in repository:
   manager.py: runs when machine is booted up and sequentially calls on sub routines based on user input through four tactile switches. Displays output to user through RGB LEDs. Also handles errors and shutdown.
   raise.py: program to raise probe from maze. Called by manager based on certain tactile switch input sequence.
   lower.py: program to lower probe into maze. Called by manager based on certain tactile switch input sequence.
+Read more: https://jblevoy.wixsite.com/skunkworks/mazebot
+Watch more: https://jblevoy.wixsite.com/skunkworks/mazebot-video
